@@ -7,7 +7,7 @@ $ git clone https://github.com/Shuvo-BBHH/clonemahdi
 
 $ pkg install python
 
-$ cd cow3
+$ cd clonemahdi
 
 $ pip install -r requirements.txt
 
