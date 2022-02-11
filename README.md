@@ -13,3 +13,9 @@ $ pip install -r requirements.txt
 
 $ python baba.py
 
+
+
+![image](https://user-images.githubusercontent.com/98658558/153536662-49da2b76-8a28-4d5b-bd38-9ce24915c448.png)
+
+
+
